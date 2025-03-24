@@ -1,4 +1,4 @@
-baseurl: https://shubei111.github.io/
+baseurl: https://shubei111.github.io/ShuBeiBlog/
 languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site
@@ -19,7 +19,7 @@ languages:
         weight: 2
         params:
             sidebar:
-                subtitle: 欢迎来到寂灭之雨的网站
+                subtitle: 
 
 services:
     # Change it to your Disqus shortname before using
